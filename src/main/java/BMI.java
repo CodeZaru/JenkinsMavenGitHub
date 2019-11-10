@@ -1,4 +1,4 @@
-package nvcccs201;
+//package nvcccs201;
 import java.util.Scanner;
 public class BMI
 {
